@@ -1,4 +1,4 @@
-![full stack developer tutorial](assets/fullstack-tutorial-logo.png)
+<div align="center"><img src="assets/logo-2021.svg" width="80%"/></div><br/>
 
 |              I              |           II           |           III           |           IV           |            V            |            VI            |        VII        |         VIII         | IX |            X            |            XI            |            XII            |
 | :--------------------------: | :-------------------: | :----------------------: | :---------------------: | :--------------: | :---------------: | :----------------------: | :----------------------: | :----------------------: | :----------------------: | :----------------------: | :----------------------: |
@@ -6,52 +6,27 @@
 
 <div align="center">  
     <p>
-        📢📢📢
+        ✨✨✨
     </p>
     <p>
- 		和 400+ 技术达人在线交流：
-      <a href="notes/技术交流群.md">QQ技术交流群</a>
+ 		和 500+ 技术达人在线交流：
+      <a href="notes/技术交流群.md">🤟 快来吧，和大家一起技术互动交流</a>
     </p>
   <p>
-    欢迎光临我的技术博客：<a href="https://www.frankfeekr.cn">www.frankfeekr.cn</a>
+    『技术博客』：<a href="https://www.frankfeekr.cn">www.frankfeekr.cn</a>   |  『开源贡献』：<a href="notes/开源贡献.md">⊱ 英雄招募令</a>   |   『微信订阅号』：全栈开发社区
   </p>
-    <p>
-        欢迎志同道合的小伙伴加入开源小组：<a href="notes/开源贡献.md">⊱ 开源小组，英雄招募令</a>
-    </p>
-    <div>
-        <br/>
-        <p>
-            🎯🎯🎯
-        </p>
-        <p>
-             为极客打造，阅读体验更好的在线文档（与 GitHub 实时同步）
-        </p>
-        <p>
-            支持手机阅读，目录导航，Gitalk 评论，搜索定位
-        </p>
-        <p>
-            📖 <a href="https://frank-lam.github.io/fullstack-tutorial/#/">点击，即刻开始阅读！</a>
-        </p>
-    </div>
-        <div>
-        <br/>
-        <p>
-            🎯🎯🎯
-        </p>
-        <p>
-             也许你特别钟爱 GitHub 的阅读体验，没关系
-        </p>
-        <p>
-            我也为您打造了一款 Chrome 插件 <a href="https://github.com/fullstack-tutorial/github-markdown-toc">Chrome Extension：GitHub Markdown</a>
-        </p>
-        <p>
-            方便在 GitHub 长文阅读时，在侧边栏生成标题目录定位
-            </p>
-        <p>
-            🎅 特别鸣谢共同完成两位小伙伴：<a href="https://github.com/dxiaoqi">@dxiaoqi</a> <a href="https://github.com/dzeze">@dzeze</a>
-    </div>
 </div>
 
+
+
+
+<div align="center"> <img src="assets/wechat/wx-green.png" width="70%"/></div>
+
+## 技术学习清单
+
+在这里，为你推荐了技术学习路上优质的学习书籍、学习课程。在推荐清单中将附带官网链接，图书则附京东和豆瓣链接。如果你有更好的学习资料，可以在下方留言，采纳后我会更新在文章中。
+
+**传送门**：https://mp.weixin.qq.com/s/gezKXKY4ezU0ZbvPybbbxQ
 
 
 
@@ -150,15 +125,20 @@
 <details>
 <summary>TODO LIST</summary>
 
-- HTML(5)
+- HTML5
 
-- CSS(3)
+- CSS3
 
-  sass、scss、stylus
+- CSS 预处理
+
+  - sass(scss)
+  - less
+  - stylus
 
 - CSS 框架
 
-  BootStarp、LayUI
+  - BootStarp
+  - LayUI
 
 - JavaScript 
 
@@ -167,7 +147,7 @@
 - JavaScript 框架
 
   - Vue
-  - React 
+  - React
   - Angular
   - jQuery
 
@@ -175,18 +155,28 @@
 
   常用 api、对象池、异常处理、进程通信、高并发
 
-- 静态编译
-  - Flow
-  - TypeScript
+- 静态类型检查
 
-- 打包工具
+  - TypeScript
+  - Flow
+
+- 构建/打包工具
+
   - webpack
-  - glup
+  - gulp
   - rollup
 
-- 工具
+- 包管理工具
+
   - npm
   - yarn
+  
+- 服务端渲染
+
+  - koa2
+  - express
+  - nuxt
+  - next
 
 </details>
 
@@ -204,13 +194,17 @@
 
   Redis 核心知识
 
-- MongoDB
-
-  基于分布式文件存储的数据库
-
 - [SQL](notes/SQL.md)
 
   常用 SQL 语句
+
+- [PostgreSQL](notes/PostgreSQL.md)
+
+  一个开源的关系数据库，是从伯克利写的 POSTGRES 软件包发展而来的
+
+- MongoDB
+
+  基于分布式文件存储的数据库
 
 
 
@@ -415,11 +409,17 @@ Please make sure to read the [Contributing Guide/如何给我的仓库贡献](no
 
 
 
+## Stargazers over time
+
+![Stargazers over time](https://starcharts.herokuapp.com/frank-lam/fullstack-tutorial.svg)
+
+
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
-Copyright (c) 2019-present, Frank Lam
+Copyright (c) 2021-present, Frank Lam
 
 
 
@@ -427,9 +427,16 @@ Copyright (c) 2019-present, Frank Lam
 
 <div align="center">  
     <p>
+      『作者简介』：<a href="https://www.frankfeekr.cn/author">https://www.frankfeekr.cn/author</a>
+    </p>
+</div>
+
+
+
+<div align="center">  
+    <p>
         在颠覆世界的同时，也要好好关照自己。
     </p>
-<a  target="_blank" href="https://zhuanlan.zhihu.com/frankfeekr" rel="nofollow"><a href="#backers" alt="sponsors on Open Collective"><img src="https://opencollective.com/fullstack-tutorial/backers/badge.svg" /></a> <a href="#sponsors" alt="Sponsors on Open Collective"><img src="https://opencollective.com/fullstack-tutorial/sponsors/badge.svg" /></a> <img src="https://img.shields.io/badge/知乎专栏-frankfeekr-blue.svg" alt="QQ群" data-canonical-src="" style="max-width:100%;"></a>
 <a target="_blank" href="https://frankfeekr.cn" rel="nofollow"><img src="https://img.shields.io/badge/BLOG-frankfeekr.cn-blue.svg" alt="BLOG" data-canonical-src="" style="max-width:100%;"></a>
 <a target="_blank" href="mailto:frank_lin@whu.edu.cn" rel="nofollow"><img src="https://img.shields.io/badge/Email-frank__lin@whu.edu.cn-lightgrey.svg" alt="邮箱" data-canonical-src="" style="max-width:100%;"></a>
 <a target="_blank" href="https://jq.qq.com/?_wv=1027&k=593WvX0" rel="nofollow" ><img src="https://img.shields.io/badge/QQ群-862619503-green.svg" alt="QQ群" data-canonical-src="" style="max-width:100%;"></a>
@@ -438,4 +445,5 @@ Copyright (c) 2019-present, Frank Lam
         from zero to hero.
     </p>
 </div>
-<div align="center"><img src="assets/wechat-fullstack.png" width="620"/></div><br/>
+<div align="center"> <img src="assets/wechat/wx-green.png" width="90%"/></div>
+
